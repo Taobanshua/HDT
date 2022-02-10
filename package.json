@@ -61,7 +61,7 @@
 		"lodash": "^4.17.4",
 		"md5": "^2.2.1",
 		"memoize-one": "^4.0.0",
-		"node-sass": "^4.7.2",
+		"node-sass": "^7.0.0",
 		"numbro": "^2.0.6",
 		"prop-types": "^15.6.0",
 		"react": "^16.8.4",
